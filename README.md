@@ -10,3 +10,7 @@ xxx -> dritte Änderung, außerdem Branch
 vierte Änderung local
 
 fünfte Änderung remote und branch
+
+6. Änderung + branch
+
+[test] https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
